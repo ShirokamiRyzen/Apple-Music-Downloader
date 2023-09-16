@@ -1,1 +1,1 @@
-python manzana.py
+python ryzen.py
